@@ -1,1 +1,2 @@
-image: kuzzleio/kuzzle
+image:
+  file: .gitpod.dockerfile
